@@ -8,9 +8,9 @@ Project 1 is a Dynamic Movie trailer website themed around TERMINATOR.
 
 ### What is Included
 
-* entertainment_test.py
+* entertainment_center.py
 * fresh_tomatoes.py
-* movie.py
+* media.py
 * README.MD
 
 ### Dependencies
